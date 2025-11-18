@@ -1,9 +1,9 @@
 # mmrcl-blackbook
 **Final year black book for MMRCL internship - submitted at DY Patil University (2025)**
 
-This repository contains the **official internship report (Black Book)** for the project: **"Development of AI Chatbot for MMRCL Website using LLMs and Django,"** submitted in partial fulfillment of the requirements for the B.Tech degree.
+This repository contains the **official academic submission** for the project: **"Development of AI Chatbot for MMRCL Website using LLMs and Django,"** submitted in partial fulfillment of the requirements for the B.Tech degree.
 
-It is intended for academic review and provides comprehensive documentation of the system's design, implementation, results, and conclusion.
+The repository includes both the finalized digital report and the mandatory officially signed document.
 
 ---
 
@@ -15,23 +15,24 @@ This project involved the design, development, and deployment of a sophisticated
 
 ### ✨ Key Technical Features Documented in the Report
 
-* **LLM Integration:** Utilizes the **Mistral 7B** model for high-quality Natural Language Understanding (NLU) and response generation.
-* **Retrieval-Augmented Generation (RAG):** Employs **FAISS** and **HuggingFace Embeddings** for efficient semantic search against a curated knowledge base, ensuring grounded and factual responses.
-* **Multimodal Support:** Development included support for query input via **text**, **voice**, and **image**.
+* **LLM Integration:** Utilizes the **Mistral 7B** model.
+* **Retrieval-Augmented Generation (RAG):** Employs **FAISS** and **HuggingFace Embeddings** for efficient semantic search.
+* **Multimodal Support:** Development included support for **text**, **voice**, and **image** input.
 * **Multilingual Capability:** Supported interactions in **English**, **Hindi**, and **Marathi**.
-* **Technology Stack:** Details the use of **Python, Django, Streamlit,** and deployment strategies (including **Netlify**).
+* **Technology Stack:** Details the use of **Python, Django, and Streamlit**.
 
 ---
 
-## 📁 Repository Contents
+## 📁 Repository Contents and Submission Files
 
-| File/Folder | Purpose |
-| :--- | :--- |
-| **`Black_Book_Report.pdf`** | **The complete, final internship report/dissertation.** (This is the primary file for submission) |
-| `README.md` | Provides context and summary of the project. |
-| `LICENSE` | Outlines the licensing terms for the report and documentation. |
-| `Abstract.txt` | A brief summary of the project goals and results. |
-| `Screenshots/` | Visual evidence of the chatbot interface and key results. |
+This repository contains the following two essential files for the academic submission:
+
+| File Name | Purpose | Notes |
+| :--- | :--- | :--- |
+| **`MMRCL_Chatbot_Digital_Report.pdf`** | **Finalized Digital Black Book/Report.** | Clean, high-quality, text-searchable version. |
+| **`MMRCL_Chatbot_Signed_Scan.pdf`** | **Official Scanned Black Book.** | Includes all mandatory pages (Certificate, Approval, etc.) with **original signatures** from faculty and mentors. |
+| `README.md` | Provides context and summary of the project. | |
+| `LICENSE` | Outlines the licensing terms for the report and documentation. | |
 
 ---
 
