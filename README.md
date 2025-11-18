@@ -2,6 +2,12 @@
   <img src="https://img.shields.io/badge/MMRCL%20Internship%20Project-Black%20Book-blue?style=for-the-badge&logo=metro&logoColor=white" />
 </p>
 
+## 🔗 Quick Links
+- 📄 [Digital Report (PDF)](MMRCL_Chatbot_Digital_Report.pdf)
+- 📝 [Signed Scan (PDF)](MMRCL_Chatbot_Signed_Scan.pdf)
+- 🧠 Project Details
+- ⚖️ License
+
 
 **Final year black book for MMRCL internship - submitted at DY Patil University (2025)**
 
@@ -14,6 +20,14 @@ The repository includes both the finalized digital report and the mandatory offi
 ## 🤖 Project Overview: MMRCL AI Chatbot (LLM-Powered)
 
 This project involved the design, development, and deployment of a sophisticated, AI-powered conversational agent (chatbot) for the **Mumbai Metro Rail Corporation Limited (MMRCL)** website. Leveraging advanced **Large Language Models (LLMs)** and a robust **Django** backend, the chatbot provides real-time, context-aware answers to commuters' queries regarding routes, ticketing, schedules, and general information.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-Mistral%207B-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge" />
+</p>
 
 
 
@@ -31,12 +45,34 @@ This project involved the design, development, and deployment of a sophisticated
 
 This repository contains the following two essential files for the academic submission:
 
-| File Name | Purpose | Notes |
-| :--- | :--- | :--- |
-| **`MMRCL_Chatbot_Digital_Report.pdf`** | **Finalized Digital Black Book/Report.** | Clean, high-quality, text-searchable version. |
-| **`MMRCL_Chatbot_Signed_Scan.pdf`** | **Official Scanned Black Book.** | Includes all mandatory pages (Certificate, Approval, etc.) with **original signatures** from faculty and mentors. |
-| `README.md` | Provides context and summary of the project. | |
-| `LICENSE` | Outlines the licensing terms for the report and documentation. | |
+<table>
+  <tr>
+    <th>File Name</th>
+    <th>Purpose</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td><b>MMRCL_Chatbot_Digital_Report.pdf</b></td>
+    <td>Final digital Black Book / Report</td>
+    <td>Clean, text-searchable Overleaf export</td>
+  </tr>
+  <tr>
+    <td><b>MMRCL_Chatbot_Signed_Scan.pdf</b></td>
+    <td>Official scanned Black Book</td>
+    <td>Contains signatures, certificates, and department approvals</td>
+  </tr>
+  <tr>
+    <td>README.md</td>
+    <td>Project documentation and overview</td>
+    <td>Provides context for recruiters</td>
+  </tr>
+  <tr>
+    <td>LICENSE</td>
+    <td>Legal license</td>
+    <td>CC BY-NC-ND 4.0</td>
+  </tr>
+</table>
+
 
 ---
 
