@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/MMRCL%20Internship%20Project-Black%20Book-blue?style=for-the-badge&logo=metro&logoColor=white" />
+</p>
+
+
 # mmrcl-blackbook
 **Final year black book for MMRCL internship - submitted at DY Patil University (2025)**
 
