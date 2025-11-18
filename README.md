@@ -43,6 +43,7 @@ This project was developed as a requirement for the degree of **B.Tech in Comput
 * **Student:** Paarth Parag Doshi (21CE2022)
 * **Submission Date:** May 2025
 * **Supervisors:** Mr. Chaitanya Jage (Project Co-ordinator), Mr. Sumit Patil (Industry Mentor), Mrs. Bhavana Alte (Supervisor).
+* **Project Announcement:** [LinkedIn Post](https://www.linkedin.com/posts/paarth-doshi_internship-finalyearproject-mmrcl-activity-7341449320417624064-bFvv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0gCVYBxSHy9MWT_qs9Twyzl4Q67QXtTb0)
 
 ---
 
