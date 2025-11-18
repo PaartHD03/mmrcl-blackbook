@@ -23,7 +23,7 @@ This project involves the design, development, and deployment of a sophisticated
 | **Vector Database/Search** | **FAISS** | Fast similarity search for RAG implementation. |
 | **Embeddings** | **HuggingFace Embeddings** | Generating semantic representations of text. |
 | **Frontend/UI** | **Streamlit** | Rapid application deployment and user interface. |
-| **Deployment** | Netlify | Containerization and hosting. |
+| **Deployment** | **Netlify** | Containerization and hosting. |
 
 ## 🚀 Installation and Setup
 
