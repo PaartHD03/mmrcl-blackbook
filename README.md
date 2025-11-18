@@ -3,7 +3,6 @@
 </p>
 
 
-# mmrcl-blackbook
 **Final year black book for MMRCL internship - submitted at DY Patil University (2025)**
 
 This repository contains the **official academic submission** for the project: **"Development of AI Chatbot for MMRCL Website using LLMs and Django,"** submitted in partial fulfillment of the requirements for the B.Tech degree.
